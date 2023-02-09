@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 # file_loc = 'sample1_input.txt'
 file_loc = 'input1.txt'
 
